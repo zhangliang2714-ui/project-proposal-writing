@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目书写作"
+  short_description: "按科研项目类别优化中文申请书的语言、论证逻辑与章节风格，保留事实和修改边界"
+  default_prompt: "使用 $project-proposal-writing，先判断项目类别与章节任务，再优化这份项目书的语言、逻辑和风格。"
